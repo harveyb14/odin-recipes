@@ -1,0 +1,75 @@
+* {
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    font-size: large;
+}
+
+.title {
+    text-align: center;
+    background-color: rgb(104, 185, 104);
+    border: 5px solid black;
+    border-radius: 8px;
+    color: rgb(52, 63, 230);
+    margin-bottom: 20px;
+    padding: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(104, 185, 104);
+    border: 5px solid black;
+    border-radius: 8px;
+    color: rgb(52, 63, 230);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li {
+    text-align: center;
+    list-style-type: none;
+    margin-left: -40px;
+}
+
+p {
+    text-align: center;
+}
+
+.steps {
+    border-bottom: 10px solid black;
+}
+
+.recipe-list {
+    text-align: center;
+    list-style-type: none;
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.veggie {
+    background-color: aliceblue;
+}
+
+.steak {
+    background-color: aliceblue;
+}
+
+.chicken-pasta {
+    background-color: aliceblue;
+}
+
+.image {
+    /* display: block;
+    margin-left: auto;
+    margin-right: auto; */
+    text-align: center;
+}
+
+.image2 {
+    border: 5px solid black;
+}
